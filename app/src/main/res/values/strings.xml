@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImagioBox Interview Demo</string>
+    <string name="photos">PHOTOS</string>
+    <string name="profile">PROFILE</string>
+</resources>
